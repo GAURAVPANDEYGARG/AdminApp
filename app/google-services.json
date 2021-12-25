@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409478277264",
+    "project_id": "cmrit-9dba4",
+    "storage_bucket": "cmrit-9dba4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409478277264:android:651e9d17ce6ff807a51015",
+        "android_client_info": {
+          "package_name": "com.gaurav.admincollegeap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409478277264-0fm3oeiteab08igc0s1bbmkcg8k93c9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcM1gVHXj5DBqqD0Dzb3RzqRoobUIiXA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409478277264-0fm3oeiteab08igc0s1bbmkcg8k93c9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
